@@ -1,0 +1,4 @@
+[29-May-2018 23:01:02 Asia/Dhaka] PHP Fatal error:  Class 'id' not found in /home/bilalben/public_html/bilalbenrabah_demo/system/database/drivers/mysqli/mysqli_result.php on line 229
+[29-May-2018 23:01:31 Asia/Dhaka] PHP Fatal error:  Class 'student_id' not found in /home/bilalben/public_html/bilalbenrabah_demo/system/database/drivers/mysqli/mysqli_result.php on line 229
+[02-Jun-2018 20:35:13 Asia/Dhaka] PHP Fatal error:  Cannot redeclare Admin::message() in /home/bilalben/public_html/bilalbenrabah_demo/application/controllers/Admin.php on line 2253
+[02-Jun-2018 20:37:44 Asia/Dhaka] PHP Fatal error:  Cannot redeclare Admin::employee_info() in /home/bilalben/public_html/bilalbenrabah_demo/application/controllers/Admin.php on line 75
